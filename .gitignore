@@ -112,3 +112,5 @@ data/chroma_db/
 
 # Streamlit
 .streamlit/
+
+evaluation_report.md
